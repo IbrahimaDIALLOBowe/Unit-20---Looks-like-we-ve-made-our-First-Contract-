@@ -1,6 +1,6 @@
 # Unit 20 - "Looks like we've made our First Contract!"
 
-![contract](Images/AssociateProfitSplitter 1.png)
+![contract](Images/AssociateProfitSplitter1.jpg)
 
 ## Background
 
