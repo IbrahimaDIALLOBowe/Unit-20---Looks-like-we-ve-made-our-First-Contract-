@@ -10,7 +10,7 @@
 ![contract](Images/TieredProfitSplitter1.jpg)
 
 
-![contract](Images/TieredProfitSplitter.jpg)
+![contract](Images/TieredProfitSplitter11.jpg)
 
 
 ![contract](Images/TieredProfitSplitter2.jpg)
