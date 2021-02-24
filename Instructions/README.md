@@ -4,18 +4,20 @@
 
 ![contract](Images/AssociateProfitSplitter.jpg)
 
-![GanacheAssociateProfitSplitter1](Images/GanacheAssociateProfitSplitter1.jpg)
+![contract](Images/GanacheAssociateProfitSplitter.jpg)
 
 
 ![contract](Images/TieredProfitSplitter1.jpg)
 
+
 ![contract](Images/TieredProfitSplitter.jpg)
+
 
 ![contract](Images/TieredProfitSplitter2.jpg)
 
 ![contract](Images/TieredProfitSplitter4.jpg)
 
-![GanacheTieredProfitSplitter](Images/GanacheTieredProfitSplitter.jpg)
+![contract](Images/GanacheTieredProfitSplitter.jpg)
 
 
 
