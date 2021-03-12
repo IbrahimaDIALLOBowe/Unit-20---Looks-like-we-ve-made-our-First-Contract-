@@ -19,28 +19,31 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 * [`AssociateProfitSplitter.sol`](Starter-Code/AssociateProfitSplitter.sol) -- Level 1 starter code.
 
+AssociateProfitSplitter.sol is compiled and deployed.
 ![contract](Images/AssociateProfitSplitter1.jpg)
 
+The transaction is reflected in MetaMask.
 ![contract](Images/AssociateProfitSplitter.jpg)
 
+The transaction amounts are reflected in Ganache.
 ![contract](Images/GanacheAssociateProfitSplitter.jpg)
 
 
 
 * [`TieredProfitSplitter.sol`](Starter-Code/TieredProfitSplitter.sol) -- Level 2 starter code.
 
-
+TieredProfitSplitter.sol compile and deployed.
 ![contract](Images/TieredProfitSplitter1.jpg)
 
-
+The transaction is reflected in MetaMask.
 ![contract](Images/TieredProfitSplitter11.jpg)
 
-
+The deposit reflected in MetaMask.
 ![contract](Images/TieredProfitSplitter2.jpg)
 
 ![contract](Images/TieredProfitSplitter4.jpg)
 
-
+The transaction amounts and deposit reflected in Ganache for the three employees. 
 ![contract](Images/GanacheTieredProfitSplitter1.jpg)
 
 
@@ -48,6 +51,3 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 
 
-
-
-* [`DeferredEquityPlan.sol`](Starter-Code/DeferredEquityPlan.sol) -- Level 3 starter code.
