@@ -20,13 +20,19 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 * [`AssociateProfitSplitter.sol`](Starter-Code/AssociateProfitSplitter.sol) -- Level 1 starter code.
 
 AssociateProfitSplitter.sol is compiled and deployed.
+
 ![contract](Images/AssociateProfitSplitter1.jpg)
 
+
 The transaction is reflected in MetaMask.
+
 ![contract](Images/AssociateProfitSplitter.jpg)
 
+
 The transaction amounts are reflected in Ganache.
+
 ![contract](Images/GanacheAssociateProfitSplitter.jpg)
+
 
 
 
