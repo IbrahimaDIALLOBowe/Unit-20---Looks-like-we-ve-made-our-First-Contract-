@@ -33,17 +33,23 @@ The transaction amounts are reflected in Ganache.
 * [`TieredProfitSplitter.sol`](Starter-Code/TieredProfitSplitter.sol) -- Level 2 starter code.
 
 TieredProfitSplitter.sol compile and deployed.
+
 ![contract](Images/TieredProfitSplitter1.jpg)
 
+
 The transaction is reflected in MetaMask.
+
 ![contract](Images/TieredProfitSplitter11.jpg)
 
+
 The deposit reflected in MetaMask.
+
 ![contract](Images/TieredProfitSplitter2.jpg)
 
 ![contract](Images/TieredProfitSplitter4.jpg)
 
-The transaction amounts and deposit reflected in Ganache for the three employees. 
+The transaction amounts and deposit reflected in Ganache for the three employees.
+
 ![contract](Images/GanacheTieredProfitSplitter1.jpg)
 
 
